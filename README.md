@@ -1,6 +1,6 @@
 <h1 align="center">Icons And Typography</h1>
 
-![icons and typography](https://user-images.githubusercontent.com/79747022/138318202-3401a241-304c-4228-9dd0-583304e6e446.png)
+
 
 <div align="center">
 
@@ -43,4 +43,3 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![thank you](https://user-images.githubusercontent.com/79747022/138318507-bb914e67-a1c7-4604-999a-efbe6ba02a67.png)
